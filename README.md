@@ -47,6 +47,7 @@ Adiccionalmente se sumo una funcionalidad adiccional las cuales son mantener la 
 <ol>
   <li>Clonar el repositorio.</li>
   <li>Abrir el proyecto con Android Studio y esperar a que se indexen y bajen las dependencias.</li>
+  <li>Poner dentro de local.properties lo siguiente: MAPS_API_KEY=AIzaSyBpNglmzEHRuehViv5U_iAL-lbmSqw0WJw</li>
   <li>Presionar sync project with grandle files.</li>
   <li>Ejecutar la aplicación</li>
 </ol>
