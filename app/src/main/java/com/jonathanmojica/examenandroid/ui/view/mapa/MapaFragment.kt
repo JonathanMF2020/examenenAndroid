@@ -185,9 +185,4 @@ class MapaFragment : Fragment() {
             findNavController().popBackStack(R.id.loginFragment,false)
         }
     }
-
-
-
-
-
 }
