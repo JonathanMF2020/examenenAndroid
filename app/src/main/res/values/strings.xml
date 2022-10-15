@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="login_text">Login</string>
+    <string name="login_description">Ingrese sus credenciales para continuar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter">Ingresar</string>
+    <string name="channel">EXAMEN</string>
+    <string name="channel_desc">examen notificiaciones</string>
+    <string name="enviar_ubicacion">Enviar ubicación</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="preference_file_key">preferences</string>
+</resources>

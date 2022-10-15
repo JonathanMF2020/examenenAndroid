@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "575622335749",
+    "firebase_url": "https://cheve-app-admin.firebaseio.com",
+    "project_id": "cheve-app-admin",
+    "storage_bucket": "cheve-app-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575622335749:android:e9ce3f0b738287e6543b6c",
+        "android_client_info": {
+          "package_name": "com.corvuzweb.cheveappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575622335749-s75rs8vs4jv042eetitpp488s1sm2cs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBvhFwjhCX5GrBQk2a2FaVSKdMI0M_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575622335749-s75rs8vs4jv042eetitpp488s1sm2cs0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575622335749-olt6lsluqtc522bhva46orc6lk60lke2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.corvuzweb.cheveappadmin",
+                "app_store_id": "1529628897"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
